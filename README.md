@@ -33,13 +33,6 @@ Mistica es una aplicación que te permite acceder a una amplia base de conocimie
 - Mantén tus datos actualizados en todos tus dispositivos
 - Sin necesidad de configuración compleja
 
-### 🔐 Gestión de Datos (Administrador)
-- Agrega nuevos elementos
-- Edita elementos existentes
-- Elimina elementos obsoletos
-- Respalda tus datos localmente
-- Sube respaldos a la nube
-
 ### 💾 Offline First
 - Todos los datos se almacenan localmente (SQLite)
 - Funciona sin conexión a internet una vez descargados
@@ -81,11 +74,6 @@ Mistica es una aplicación que te permite acceder a una amplia base de conocimie
 ### ☁️ Actualizar (Recomendado)
 1. Toca el botón ☁️ en la pantalla principal
 2. Descarga la versión más reciente de la base de datos
-
-### 🔐 Para Administradores
-1. Toca el título "✨ Mistica ✨" 5 veces
-2. Ingresa la clave de administrador (`rvmax`)
-3. Accede a la gestión completa de la base de datos
 
 ## 💡 Consejos Útiles
 
