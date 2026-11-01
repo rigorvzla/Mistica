@@ -28,15 +28,9 @@ Mistica es una aplicación que te permite acceder a una amplia base de conocimie
 - Envía por WhatsApp, Telegram, correo o cualquier app
 - Formato claro y atractivo para el receptor
 
-### ☁️ Sincronización en la Nube
-- Descarga automática del respaldo más reciente
-- Mantén tus datos actualizados en todos tus dispositivos
-- Sin necesidad de configuración compleja
-
 ### 💾 Offline First
 - Todos los datos se almacenan localmente (SQLite)
-- Funciona sin conexión a internet una vez descargados
-- Sincronización cuando estés conectado
+- Funciona sin conexión a internet 
 
 ## 📱 Pantallas Principales
 
@@ -46,21 +40,15 @@ Mistica es una aplicación que te permite acceder a una amplia base de conocimie
 | Lista de Elementos | Elementos filtrados por categoría con búsqueda en tiempo real |
 | Detalle | Información completa del elemento seleccionado |
 | Gestión | CRUD completo para administradores |
-| Respaldo | Exportar/Importar datos locales y en la nube |
 
 ## 🛠️ Tecnologías
 
 - **.NET MAUI** - Framework multiplataforma
 - **SQLite** - Base de datos local (offline)
-- **Supabase** - Almacenamiento en la nube
 - **C#** - Lenguaje de programación
 - **Android** - Plataforma soportada
 
 ## 🚀 Cómo Empezar
-
-### 🔽 Primera Ejecución
-1. La aplicación descarga automáticamente la base de datos inicial
-2. En menos de 5 segundos ya puedes explorar el conocimiento
 
 ### 📂 Explorar
 1. Toca cualquier categoría en la pantalla principal
@@ -71,29 +59,15 @@ Mistica es una aplicación que te permite acceder a una amplia base de conocimie
 1. Escribe en la barra de búsqueda
 2. Los resultados se actualizan instantáneamente
 
-### ☁️ Actualizar (Recomendado)
-1. Toca el botón ☁️ en la pantalla principal
-2. Descarga la versión más reciente de la base de datos
-
 ## 💡 Consejos Útiles
 
 - ✅ Comparte elementos interesantes con tus amigos
-- ✅ Actualiza regularmente desde la nube para tener los últimos datos
 - ✅ Explora todas las categorías para descubrir nuevo conocimiento
-- ✅ Conecta a internet para descargar respaldos
-
-## 🔒 Seguridad
-
-- Clave de administrador para proteger la edición de datos
-- Solo el administrador puede agregar, editar o eliminar elementos
-- Los usuarios comunes pueden leer y compartir todo el contenido
-- Respaldo automático para no perder información
 
 ## 📱 Requisitos
 
 - **Android** 7.0 o superior
 - **Espacio mínimo** 50 MB
-- **Internet** solo para descarga inicial y sincronización
 
 ## 🐛 Reporte de Errores
 
